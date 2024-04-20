@@ -1,6 +1,6 @@
 <div align="center">
 
-# B Sai Mukesh Reddy
+### B Sai Mukesh Reddy
 
 <i>An aspiring Chemical Engineer </i>
 
@@ -23,7 +23,9 @@
 
 ## 📌 Objective
 
-<p>Leverage academic background, research experience, and passion for chemical engineering in pursuing a Ph.D. program focused on contributing original research to advance knowledge in the field and preparing for a career in academia or industry research.</p>
+<p>## 🎯 Objective
+Chemical Engineering graduate from IIT Guwahati, with a keen interest in Material Science and Technology. Looking to apply my academic knowledge and research skills in a professional setting. I am eager to contribute to engineering projects that are at the intersection of innovation and sustainability, particularly in industries focused on advanced materials and environmental technologies.
+</p>
 
 ## 🎓 Education
 
