@@ -35,7 +35,7 @@ Chemical Engineering graduate from IIT Guwahati, with a keen interest in Materia
 ### 🏫 Indian Institute of Technology, Guwahati
 - **Degree:** M.Tech in Chemical Engineering - Material Science and Technology
 - **Years:** 2022-2024
-- **CGPA:** 9.17/10
+- **CGPA:** 9.36/10
 
 ### 🏫 JNTU Anantapur
 - **Degree:** B.Tech in Chemical Engineering
