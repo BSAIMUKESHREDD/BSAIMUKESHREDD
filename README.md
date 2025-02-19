@@ -7,6 +7,9 @@
 <a href="mailto:bsm.reddy@iitg.ac.in">
 <img src="https://img.shields.io/badge/Email-bsm.reddy@iitg.ac.in-orange?style=flat&logo=gmail"/>
 </a>
+<a href="mailto:saimukesh@iisc.ac.in">
+<img src="https://img.shields.io/badge/Email-bsaimukeshreddy820@gmail.com-orange?style=flat&logo=gmail"/>
+</a>
 <a href="mailto:bsaimukeshreddy820@gmail.com">
 <img src="https://img.shields.io/badge/Email-bsaimukeshreddy820@gmail.com-orange?style=flat&logo=gmail"/>
 </a>
